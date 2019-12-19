@@ -3,4 +3,6 @@ Student project implemented in C++ using Winsock
 
 1↔1 UDP communication
 
-created with StormageddonDarkLordOfAll
+Client - veskiii
+
+Server - StormageddonDarkLordOfAll
