@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(117): warning C4566: character represented by universal-character-name '\u017C' cannot be represented in the current code page (1252)
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(117): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(408): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(427): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(428): warning C4018: '>=': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(485): warning C4018: '<': signed/unsigned mismatch
+c:\users\mikolaj\source\repos\serwer\serwer\main.cpp(486): warning C4018: '>=': signed/unsigned mismatch
+  serwer.vcxproj -> C:\Users\Mikolaj\source\repos\serwer\Debug\serwer.exe
