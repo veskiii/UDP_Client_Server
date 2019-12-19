@@ -1,2 +1,6 @@
 # UDP_Client_Server
-Student project implemented in C++
+Student project implemented in C++ using Winsock
+
+1↔1 UDP communication
+
+created with StormageddonDarkLordOfAll
