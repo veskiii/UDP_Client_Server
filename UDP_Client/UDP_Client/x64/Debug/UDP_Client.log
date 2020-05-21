@@ -1,9 +1,0 @@
-﻿  main.cpp
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(115): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(134): warning C4101: 'tmp': unreferenced local variable
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(135): warning C4101: 'tmp2': unreferenced local variable
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(293): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(260): warning C4101: 'id_obliczen': unreferenced local variable
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(257): warning C4101: 'bufor2': unreferenced local variable
-c:\users\mikolaj\source\repos\udp_client\udp_client\main.cpp(258): warning C4101: 'bufor3': unreferenced local variable
-  UDP_Client.vcxproj -> C:\Users\Mikolaj\source\repos\UDP_Client\x64\Debug\UDP_Client.exe
